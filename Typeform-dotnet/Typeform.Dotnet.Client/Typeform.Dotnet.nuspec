@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Typeform.Dotnet.Client</id>
+    <version>$version$</version>
+    <title>Typeform.com Data API .NET Client</title>
+    <authors>EdBlankenship</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/EdBlankenship/typeform-dotnet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/EdBlankenship/typeform-dotnet</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/edblankenship/typeform-dotnet/master/Typeform.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Typeform.com Data API .NET Client</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright © 2016</copyright>
+    <tags>Typeform</tags>
+  </metadata>
+</package>
