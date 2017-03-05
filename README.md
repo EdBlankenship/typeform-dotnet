@@ -1,4 +1,7 @@
-![Build Status](https://edb.visualstudio.com/_apis/public/build/definitions/4a6e74b2-f5b2-40de-ab1f-2efe4b58c2ea/14/badge)
+![Build Status](https://img.shields.io/vso/build/edb/4a6e74b2-f5b2-40de-ab1f-2efe4b58c2ea/14.svg)
+![NuGet](https://img.shields.io/nuget/v/Typeform.Dotnet.Client.svg)
+![license](https://img.shields.io/github/license/edblankenship/typeform-dotnet.svg)
+
 
 # typeform-dotnet
 .NET Client for the [Typeform.com Data API](https://www.typeform.com/help/data-api/)
