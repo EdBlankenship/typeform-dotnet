@@ -14,9 +14,11 @@ namespace Typeform.Dotnet.Data
         [JsonProperty("metadata")]
         public FormResponseMetadata Metadata { get; set; }
 
-        // TODO:  Hidden
+        // TODO:  Handle collection
+        [JsonProperty("hidden")]
+        public Dictionary<string, string> Hidden { get; set; }
 
-        // TODO:  Handle Answers collection
+        // TODO:  Handle collection
         [JsonProperty("answers")]
         public Dictionary<string, string> Answers { get; set; }
     }
