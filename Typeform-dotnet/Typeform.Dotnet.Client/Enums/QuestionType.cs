@@ -36,6 +36,7 @@
         OpinionScale = 13,
         Number = 14,
         FileUpload = 15,
-        Payment = 16
+        Payment = 16,
+        Hidden = 17
     }
 }

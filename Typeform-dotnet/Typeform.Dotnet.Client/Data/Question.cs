@@ -59,6 +59,8 @@ namespace Typeform.Dotnet.Data
                         return QuestionType.FileUpload;
                     case "payment":
                         return QuestionType.Payment;
+                    case "hidden":
+                        return QuestionType.Hidden;
                     default:
                         throw new NotImplementedException($"Unknown Typeform.com field type: {fieldType}");
                 }
